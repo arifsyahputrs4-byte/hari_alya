@@ -235,7 +235,7 @@
 
   <div id="content">
     <div class="gallery">
-      <img src="IMG_0222.png" alt="Foto 1">
+      <img src="IMG_0222.jpeg.JPG" alt="Foto 1">
       <img src="IMG_0223.jpeg" alt="Foto 2">
     </div>
     <h1>🎉 Selamat Ulang Tahun Sayang ! 🎂</h1>
