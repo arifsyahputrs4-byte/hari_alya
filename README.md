@@ -125,7 +125,7 @@
   <div class="container" id="formBox">
     <h1>Hai, Alya 💕</h1>
     <div class="hearts">💖💞</div>
-    <p>Masukkan nama dan kata sandi rahasiamu<br>untuk membuka kejutan spesial dari Arif 💌</p>
+    <p>Masukkan nama dan kata sandi rahasiamu<br>untuk membuka kejutan spesial 💌</p>
 
     <input type="text" id="nama" placeholder="Masukkan namamu" />
     <input type="password" id="sandi" placeholder="Masukkan kata sandi" />
@@ -238,7 +238,7 @@
       <img src="IMG_0222.png" alt="Foto 1">
       <img src="IMG_0223.jpeg" alt="Foto 2">
     </div>
-    <h1>🎉 Selamat Ulang Tahun! 🎂</h1>
+    <h1>🎉 Selamat Ulang Tahun Sayang ! 🎂</h1>
     <p>
       Semoga hari istimewa ini penuh tawa, kebahagiaan, dan cinta.  
       Teruslah menjadi pribadi yang baik, hangat, dan menginspirasi.  
